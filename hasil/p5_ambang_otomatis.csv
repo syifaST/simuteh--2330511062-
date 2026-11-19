@@ -1,0 +1,401 @@
+kondisi,kanal,ambang,F1
+normal,Gray,otomatis,0.674
+normal,Gray,tetap 30/90,0.719
+normal,R,otomatis,0.533
+normal,R,tetap 30/90,0.978
+gelap,Gray,otomatis,0.536
+gelap,Gray,tetap 30/90,0.732
+gelap,R,otomatis,0.367
+gelap,R,tetap 30/90,1.0
+terang,Gray,otomatis,0.779
+terang,Gray,tetap 30/90,0.752
+terang,R,otomatis,0.648
+terang,R,tetap 30/90,0.86
+kontras_rendah,Gray,otomatis,0.906
+kontras_rendah,Gray,tetap 30/90,0.969
+kontras_rendah,R,otomatis,0.912
+kontras_rendah,R,tetap 30/90,0.992
+bayangan,Gray,otomatis,0.428
+bayangan,Gray,tetap 30/90,0.744
+bayangan,R,otomatis,0.127
+bayangan,R,tetap 30/90,1.0
+normal,Gray,otomatis,0.665
+normal,Gray,tetap 30/90,0.74
+normal,R,otomatis,0.894
+normal,R,tetap 30/90,0.998
+gelap,Gray,otomatis,0.624
+gelap,Gray,tetap 30/90,0.728
+gelap,R,otomatis,0.724
+gelap,R,tetap 30/90,0.982
+terang,Gray,otomatis,0.742
+terang,Gray,tetap 30/90,0.708
+terang,R,otomatis,0.862
+terang,R,tetap 30/90,0.719
+kontras_rendah,Gray,otomatis,0.834
+kontras_rendah,Gray,tetap 30/90,0.713
+kontras_rendah,R,otomatis,0.95
+kontras_rendah,R,tetap 30/90,0.998
+bayangan,Gray,otomatis,0.616
+bayangan,Gray,tetap 30/90,0.773
+bayangan,R,otomatis,0.377
+bayangan,R,tetap 30/90,1.0
+normal,Gray,otomatis,0.67
+normal,Gray,tetap 30/90,0.745
+normal,R,otomatis,0.456
+normal,R,tetap 30/90,0.999
+gelap,Gray,otomatis,0.501
+gelap,Gray,tetap 30/90,0.742
+gelap,R,otomatis,0.239
+gelap,R,tetap 30/90,0.988
+terang,Gray,otomatis,0.787
+terang,Gray,tetap 30/90,0.736
+terang,R,otomatis,0.963
+terang,R,tetap 30/90,0.746
+kontras_rendah,Gray,otomatis,0.925
+kontras_rendah,Gray,tetap 30/90,0.999
+kontras_rendah,R,otomatis,0.901
+kontras_rendah,R,tetap 30/90,1.0
+bayangan,Gray,otomatis,0.571
+bayangan,Gray,tetap 30/90,0.712
+bayangan,R,otomatis,0.363
+bayangan,R,tetap 30/90,0.992
+normal,Gray,otomatis,0.682
+normal,Gray,tetap 30/90,0.73
+normal,R,otomatis,0.784
+normal,R,tetap 30/90,0.972
+gelap,Gray,otomatis,0.661
+gelap,Gray,tetap 30/90,0.763
+gelap,R,otomatis,0.958
+gelap,R,tetap 30/90,0.975
+terang,Gray,otomatis,0.792
+terang,Gray,tetap 30/90,0.734
+terang,R,otomatis,0.943
+terang,R,tetap 30/90,0.867
+kontras_rendah,Gray,otomatis,0.94
+kontras_rendah,Gray,tetap 30/90,0.978
+kontras_rendah,R,otomatis,0.976
+kontras_rendah,R,tetap 30/90,0.993
+bayangan,Gray,otomatis,0.18
+bayangan,Gray,tetap 30/90,0.795
+bayangan,R,otomatis,0.104
+bayangan,R,tetap 30/90,0.999
+normal,Gray,otomatis,0.749
+normal,Gray,tetap 30/90,0.804
+normal,R,otomatis,0.56
+normal,R,tetap 30/90,0.99
+gelap,Gray,otomatis,0.679
+gelap,Gray,tetap 30/90,0.773
+gelap,R,otomatis,0.482
+gelap,R,tetap 30/90,0.966
+terang,Gray,otomatis,0.915
+terang,Gray,tetap 30/90,0.747
+terang,R,otomatis,0.988
+terang,R,tetap 30/90,0.946
+kontras_rendah,Gray,otomatis,0.914
+kontras_rendah,Gray,tetap 30/90,0.916
+kontras_rendah,R,otomatis,0.867
+kontras_rendah,R,tetap 30/90,0.963
+bayangan,Gray,otomatis,0.518
+bayangan,Gray,tetap 30/90,0.783
+bayangan,R,otomatis,0.272
+bayangan,R,tetap 30/90,0.95
+normal,Gray,otomatis,0.746
+normal,Gray,tetap 30/90,0.759
+normal,R,otomatis,0.743
+normal,R,tetap 30/90,0.856
+gelap,Gray,otomatis,0.737
+gelap,Gray,tetap 30/90,0.745
+gelap,R,otomatis,0.87
+gelap,R,tetap 30/90,0.948
+terang,Gray,otomatis,0.957
+terang,Gray,tetap 30/90,0.848
+terang,R,otomatis,0.995
+terang,R,tetap 30/90,0.995
+kontras_rendah,Gray,otomatis,0.895
+kontras_rendah,Gray,tetap 30/90,0.913
+kontras_rendah,R,otomatis,0.925
+kontras_rendah,R,tetap 30/90,0.972
+bayangan,Gray,otomatis,0.317
+bayangan,Gray,tetap 30/90,0.73
+bayangan,R,otomatis,0.095
+bayangan,R,tetap 30/90,0.984
+normal,Gray,otomatis,0.745
+normal,Gray,tetap 30/90,0.742
+normal,R,otomatis,0.903
+normal,R,tetap 30/90,0.987
+gelap,Gray,otomatis,0.426
+gelap,Gray,tetap 30/90,0.728
+gelap,R,otomatis,0.203
+gelap,R,tetap 30/90,0.956
+terang,Gray,otomatis,0.896
+terang,Gray,tetap 30/90,0.735
+terang,R,otomatis,0.97
+terang,R,tetap 30/90,0.965
+kontras_rendah,Gray,otomatis,0.949
+kontras_rendah,Gray,tetap 30/90,0.944
+kontras_rendah,R,otomatis,0.982
+kontras_rendah,R,tetap 30/90,0.981
+bayangan,Gray,otomatis,0.649
+bayangan,Gray,tetap 30/90,0.742
+bayangan,R,otomatis,0.52
+bayangan,R,tetap 30/90,0.979
+normal,Gray,otomatis,0.802
+normal,Gray,tetap 30/90,0.763
+normal,R,otomatis,0.984
+normal,R,tetap 30/90,0.99
+gelap,Gray,otomatis,0.568
+gelap,Gray,tetap 30/90,0.76
+gelap,R,otomatis,0.289
+gelap,R,tetap 30/90,0.977
+terang,Gray,otomatis,0.827
+terang,Gray,tetap 30/90,0.726
+terang,R,otomatis,0.97
+terang,R,tetap 30/90,0.901
+kontras_rendah,Gray,otomatis,0.919
+kontras_rendah,Gray,tetap 30/90,0.897
+kontras_rendah,R,otomatis,0.935
+kontras_rendah,R,tetap 30/90,0.951
+bayangan,Gray,otomatis,0.711
+bayangan,Gray,tetap 30/90,0.818
+bayangan,R,otomatis,0.401
+bayangan,R,tetap 30/90,0.978
+normal,Gray,persentil 90,0.055
+normal,Gray,persentil 95,0.28
+normal,Gray,persentil 98,0.72
+normal,R,persentil 90,0.058
+normal,R,persentil 95,0.094
+normal,R,persentil 98,0.988
+gelap,Gray,persentil 90,0.052
+gelap,Gray,persentil 95,0.213
+gelap,Gray,persentil 98,0.72
+gelap,R,persentil 90,0.052
+gelap,R,persentil 95,0.068
+gelap,R,persentil 98,1.0
+terang,Gray,persentil 90,0.04
+terang,Gray,persentil 95,0.062
+terang,Gray,persentil 98,0.746
+terang,R,persentil 90,0.04
+terang,R,persentil 95,0.051
+terang,R,persentil 98,0.76
+kontras_rendah,Gray,persentil 90,0.054
+kontras_rendah,Gray,persentil 95,0.098
+kontras_rendah,Gray,persentil 98,0.707
+kontras_rendah,R,persentil 90,0.054
+kontras_rendah,R,persentil 95,0.083
+kontras_rendah,R,persentil 98,0.992
+bayangan,Gray,persentil 90,0.06
+bayangan,Gray,persentil 95,0.139
+bayangan,Gray,persentil 98,0.744
+bayangan,R,persentil 90,0.065
+bayangan,R,persentil 95,0.084
+bayangan,R,persentil 98,1.0
+normal,Gray,persentil 90,0.058
+normal,Gray,persentil 95,0.298
+normal,Gray,persentil 98,0.74
+normal,R,persentil 90,0.061
+normal,R,persentil 95,0.103
+normal,R,persentil 98,0.998
+gelap,Gray,persentil 90,0.052
+gelap,Gray,persentil 95,0.259
+gelap,Gray,persentil 98,0.728
+gelap,R,persentil 90,0.054
+gelap,R,persentil 95,0.069
+gelap,R,persentil 98,0.999
+terang,Gray,persentil 90,0.046
+terang,Gray,persentil 95,0.091
+terang,Gray,persentil 98,0.705
+terang,R,persentil 90,0.048
+terang,R,persentil 95,0.068
+terang,R,persentil 98,0.719
+kontras_rendah,Gray,persentil 90,0.043
+kontras_rendah,Gray,persentil 95,0.065
+kontras_rendah,Gray,persentil 98,0.688
+kontras_rendah,R,persentil 90,0.043
+kontras_rendah,R,persentil 95,0.069
+kontras_rendah,R,persentil 98,0.73
+bayangan,Gray,persentil 90,0.055
+bayangan,Gray,persentil 95,0.132
+bayangan,Gray,persentil 98,0.749
+bayangan,R,persentil 90,0.061
+bayangan,R,persentil 95,0.096
+bayangan,R,persentil 98,1.0
+normal,Gray,persentil 90,0.042
+normal,Gray,persentil 95,0.084
+normal,Gray,persentil 98,0.744
+normal,R,persentil 90,0.046
+normal,R,persentil 95,0.059
+normal,R,persentil 98,0.999
+gelap,Gray,persentil 90,0.049
+gelap,Gray,persentil 95,0.104
+gelap,Gray,persentil 98,0.738
+gelap,R,persentil 90,0.054
+gelap,R,persentil 95,0.07
+gelap,R,persentil 98,0.989
+terang,Gray,persentil 90,0.065
+terang,Gray,persentil 95,0.238
+terang,Gray,persentil 98,0.736
+terang,R,persentil 90,0.064
+terang,R,persentil 95,0.2
+terang,R,persentil 98,0.746
+kontras_rendah,Gray,persentil 90,0.049
+kontras_rendah,Gray,persentil 95,0.065
+kontras_rendah,Gray,persentil 98,0.731
+kontras_rendah,R,persentil 90,0.049
+kontras_rendah,R,persentil 95,0.063
+kontras_rendah,R,persentil 98,0.944
+bayangan,Gray,persentil 90,0.053
+bayangan,Gray,persentil 95,0.244
+bayangan,Gray,persentil 98,0.713
+bayangan,R,persentil 90,0.055
+bayangan,R,persentil 95,0.083
+bayangan,R,persentil 98,0.992
+normal,Gray,persentil 90,0.055
+normal,Gray,persentil 95,0.213
+normal,Gray,persentil 98,0.73
+normal,R,persentil 90,0.054
+normal,R,persentil 95,0.075
+normal,R,persentil 98,0.981
+gelap,Gray,persentil 90,0.05
+gelap,Gray,persentil 95,0.126
+gelap,Gray,persentil 98,0.733
+gelap,R,persentil 90,0.052
+gelap,R,persentil 95,0.068
+gelap,R,persentil 98,0.994
+terang,Gray,persentil 90,0.048
+terang,Gray,persentil 95,0.09
+terang,Gray,persentil 98,0.734
+terang,R,persentil 90,0.045
+terang,R,persentil 95,0.076
+terang,R,persentil 98,0.736
+kontras_rendah,Gray,persentil 90,0.048
+kontras_rendah,Gray,persentil 95,0.096
+kontras_rendah,Gray,persentil 98,0.728
+kontras_rendah,R,persentil 90,0.052
+kontras_rendah,R,persentil 95,0.089
+kontras_rendah,R,persentil 98,0.954
+bayangan,Gray,persentil 90,0.05
+bayangan,Gray,persentil 95,0.088
+bayangan,Gray,persentil 98,0.735
+bayangan,R,persentil 90,0.059
+bayangan,R,persentil 95,0.087
+bayangan,R,persentil 98,0.999
+normal,Gray,persentil 90,0.071
+normal,Gray,persentil 95,0.498
+normal,Gray,persentil 98,0.804
+normal,R,persentil 90,0.08
+normal,R,persentil 95,0.17
+normal,R,persentil 98,0.99
+gelap,Gray,persentil 90,0.071
+gelap,Gray,persentil 95,0.307
+gelap,Gray,persentil 98,0.773
+gelap,R,persentil 90,0.067
+gelap,R,persentil 95,0.096
+gelap,R,persentil 98,0.964
+terang,Gray,persentil 90,0.057
+terang,Gray,persentil 95,0.292
+terang,Gray,persentil 98,0.747
+terang,R,persentil 90,0.06
+terang,R,persentil 95,0.182
+terang,R,persentil 98,0.946
+kontras_rendah,Gray,persentil 90,0.075
+kontras_rendah,Gray,persentil 95,0.142
+kontras_rendah,Gray,persentil 98,0.79
+kontras_rendah,R,persentil 90,0.069
+kontras_rendah,R,persentil 95,0.124
+kontras_rendah,R,persentil 98,0.934
+bayangan,Gray,persentil 90,0.068
+bayangan,Gray,persentil 95,0.288
+bayangan,Gray,persentil 98,0.788
+bayangan,R,persentil 90,0.077
+bayangan,R,persentil 95,0.178
+bayangan,R,persentil 98,0.956
+normal,Gray,persentil 90,0.085
+normal,Gray,persentil 95,0.554
+normal,Gray,persentil 98,0.759
+normal,R,persentil 90,0.086
+normal,R,persentil 95,0.562
+normal,R,persentil 98,0.982
+gelap,Gray,persentil 90,0.068
+gelap,Gray,persentil 95,0.481
+gelap,Gray,persentil 98,0.745
+gelap,R,persentil 90,0.067
+gelap,R,persentil 95,0.093
+gelap,R,persentil 98,0.948
+terang,Gray,persentil 90,0.061
+terang,Gray,persentil 95,0.47
+terang,Gray,persentil 98,0.75
+terang,R,persentil 90,0.067
+terang,R,persentil 95,0.337
+terang,R,persentil 98,0.995
+kontras_rendah,Gray,persentil 90,0.07
+kontras_rendah,Gray,persentil 95,0.22
+kontras_rendah,Gray,persentil 98,0.757
+kontras_rendah,R,persentil 90,0.073
+kontras_rendah,R,persentil 95,0.16
+kontras_rendah,R,persentil 98,0.972
+bayangan,Gray,persentil 90,0.066
+bayangan,Gray,persentil 95,0.31
+bayangan,Gray,persentil 98,0.73
+bayangan,R,persentil 90,0.071
+bayangan,R,persentil 95,0.142
+bayangan,R,persentil 98,0.984
+normal,Gray,persentil 90,0.064
+normal,Gray,persentil 95,0.37
+normal,Gray,persentil 98,0.743
+normal,R,persentil 90,0.064
+normal,R,persentil 95,0.128
+normal,R,persentil 98,0.987
+gelap,Gray,persentil 90,0.061
+gelap,Gray,persentil 95,0.152
+gelap,Gray,persentil 98,0.733
+gelap,R,persentil 90,0.065
+gelap,R,persentil 95,0.088
+gelap,R,persentil 98,0.953
+terang,Gray,persentil 90,0.062
+terang,Gray,persentil 95,0.447
+terang,Gray,persentil 98,0.736
+terang,R,persentil 90,0.073
+terang,R,persentil 95,0.596
+terang,R,persentil 98,0.965
+kontras_rendah,Gray,persentil 90,0.066
+kontras_rendah,Gray,persentil 95,0.154
+kontras_rendah,Gray,persentil 98,0.798
+kontras_rendah,R,persentil 90,0.079
+kontras_rendah,R,persentil 95,0.211
+kontras_rendah,R,persentil 98,0.981
+bayangan,Gray,persentil 90,0.078
+bayangan,Gray,persentil 95,0.435
+bayangan,Gray,persentil 98,0.742
+bayangan,R,persentil 90,0.081
+bayangan,R,persentil 95,0.266
+bayangan,R,persentil 98,0.979
+normal,Gray,persentil 90,0.067
+normal,Gray,persentil 95,0.522
+normal,Gray,persentil 98,0.764
+normal,R,persentil 90,0.072
+normal,R,persentil 95,0.17
+normal,R,persentil 98,0.99
+gelap,Gray,persentil 90,0.065
+gelap,Gray,persentil 95,0.337
+gelap,Gray,persentil 98,0.76
+gelap,R,persentil 90,0.067
+gelap,R,persentil 95,0.094
+gelap,R,persentil 98,0.99
+terang,Gray,persentil 90,0.079
+terang,Gray,persentil 95,0.519
+terang,Gray,persentil 98,0.726
+terang,R,persentil 90,0.076
+terang,R,persentil 95,0.585
+terang,R,persentil 98,0.973
+kontras_rendah,Gray,persentil 90,0.064
+kontras_rendah,Gray,persentil 95,0.27
+kontras_rendah,Gray,persentil 98,0.703
+kontras_rendah,R,persentil 90,0.063
+kontras_rendah,R,persentil 95,0.227
+kontras_rendah,R,persentil 98,0.936
+bayangan,Gray,persentil 90,0.077
+bayangan,Gray,persentil 95,0.551
+bayangan,Gray,persentil 98,0.795
+bayangan,R,persentil 90,0.08
+bayangan,R,persentil 95,0.265
+bayangan,R,persentil 98,0.985
